@@ -21,6 +21,14 @@ Your project will include a web app where an emergency worker can input a new me
 
 All of the necessary criteria for developing the pipeline and web app is given in the rubric below https://review.udacity.com/#!/rubrics/1565/view
 
+### Install
+
+- [NumPy]
+- [Pandas]
+- [matplotlib]
+- [scikit-learn]
+- [NLTK]
+
 ### Run
 Run the following commands in the project's root directory to set up your database and model.
 
